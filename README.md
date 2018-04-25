@@ -25,3 +25,4 @@ For now, we'll want to create two different stores - one to keep track of all of
 - [Redux Documentation](http://redux.js.org/docs/basics/Store.html)
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/redux-create-store-lab'>Redux Create Store Lab</a> on Learn.co and start learning to code for free.</p>
+<p data-visibility='hidden'>PHRG (Candy) Store Lab</p>
